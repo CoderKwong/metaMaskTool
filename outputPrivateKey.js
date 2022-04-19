@@ -1,4 +1,4 @@
-const password = ''; // metamask passwrod
+let password = ''; // metamask passwrod
 
 function sleep(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
